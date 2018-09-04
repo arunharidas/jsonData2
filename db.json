@@ -13,5 +13,18 @@
         {"id":1125,"siteName":"Prestage Tower","elevatorName":"Elevator 2","time": "20-12-2018 13:45","status":"processing"},
         {"id":1126,"siteName":"Prestage Tower","elevatorName":"Elevator 3","time": "20-12-2018 12:45","status":"closed"},
         {"id":1127,"siteName":"Prestage Tower","elevatorName":"Elevator 4","time": "20-12-2018 11:45","status":"closed"}
-    ]
+    ],
+    "iFTB":{
+        "id":110,
+        "status":"closed",
+        "decision":"Assigned new site",
+        "description":"No current at the site",
+        "iEmployee":"Amal Francis",
+        "created_at":"20-12-2018 17:47",
+        "updated_at":"20-12-2018 17-50",
+        "attachments":[
+            {"URL":"https://design.printexpress.co.uk/wp-content/uploads/2016/02/01-avatars.jpg"},
+            {"URL":"https://cdn.dribbble.com/users/504585/screenshots/2006389/terrible_designer_avatar-01.jpg"}
+        ]
+    }
 }
