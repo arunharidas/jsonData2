@@ -2,5 +2,10 @@
     "iJob":{
         "id":22154,
         "startedAt":"21-12-2018 17:06:33"
+    },
+    "iFTBSuccess":{
+        "id":1124,
+        "status":"OK",
+        "message":"FTB generated successfully."
     }
 }
