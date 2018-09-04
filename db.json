@@ -7,5 +7,11 @@
         "id":1124,
         "status":"OK",
         "message":"FTB generated successfully."
-    }
+    },
+    "iFTBs":[
+        {"id":1124,"siteName":"Prestage Tower","elevatorName":"Elevator 1","time": "20-12-2018 17:45","status":"open"},
+        {"id":1125,"siteName":"Prestage Tower","elevatorName":"Elevator 2","time": "20-12-2018 13:45","status":"processing"},
+        {"id":1126,"siteName":"Prestage Tower","elevatorName":"Elevator 3","time": "20-12-2018 12:45","status":"closed"},
+        {"id":1127,"siteName":"Prestage Tower","elevatorName":"Elevator 4","time": "20-12-2018 11:45","status":"closed"}
+    ]
 }
